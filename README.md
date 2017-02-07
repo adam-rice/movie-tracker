@@ -8,4 +8,4 @@ A user can create an account or log in with an existing account, view movies tha
 
 ([Project Requirements](https://github.com/Tman22/movie-tracker))
 
---- Screenshots coming soon... ---
+![screen-grab](https://github.com/adam-rice/movie-tracker/blob/master/screen.png)
